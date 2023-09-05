@@ -1,7 +1,7 @@
 package com.example.myapplication
 
 fun main() {
-    val worldName = "스코월드"
+    val worldName = "안드로이드 월드"
     println("이름을 입력해주세요!!!")
     var myName = readLine()
     println("나이를 입력해주세요!!!")
